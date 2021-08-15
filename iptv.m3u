@@ -1,70 +1,40 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_2
+#EXTINF:-1,Globo_1
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1,iptvtools_8
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1,iptvtools_9
-https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
-#EXTINF:-1,iptvtools_10
+#EXTINF:-1,Globo_2
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1,iptvtools_14
+#EXTINF:-1,RBTV_3
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-#EXTINF:-1,iptvtools_15
+#EXTINF:-1,Saude_4
 http://177.20.208.58:8000/play/a03p/index.m3u8
-#EXTINF:-1,iptvtools_16
-https://tls.cdnz.cl/rewindtv/rewindtv/playlist.m3u8
-#EXTINF:-1,iptvtools_17
-http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-#EXTINF:-1,iptvtools_21
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1,Tv Metropole_5
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1,iptvtools_30
+#EXTINF:-1,Tv JORNAL CARUARÚ_6
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
-#EXTINF:-1,iptvtools_38
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:-1,iptvtools_44
-http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:-1,iptvtools_268
-https://srv2.zcast.com.br/juanes1546/juanes1546/playlist.m3u8
-#EXTINF:-1,iptvtools_269
-https://stmv1.voxtvhd.com.br/webtvxtreme/webtvxtreme/chunklist_w469832076.m3u8
-#EXTINF:-1,iptvtools_270
+#EXTINF:-1,ALL Sports_7
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w698058298.m3u8
-#EXTINF:-1,iptvtools_271
+#EXTINF:-1,Anime Tv_8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1,iptvtools_272
+#EXTINF:-1,Bons Tempos_9
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 #EXTINF:-1,iptvtools_273
 https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
-#EXTINF:-1,iptvtools_274
+#EXTINF:-1,Canal 29_11
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
-#EXTINF:-1,iptvtools_276
+#EXTINF:-1,Tela viva Tv_12
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
-#EXTINF:-1,iptvtools_280
+#EXTINF:-1,Retrô_13
 https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:-1,iptvtools_281
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
-#EXTINF:-1,iptvtools_282
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:-1,iptvtools_284
+#EXTINF:-1,Tv series_15
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1,iptvtools_285
+#EXTINF:-1,Tv series1 _16
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
-#EXTINF:-1,iptvtools_287
+#EXTINF:-1,Vintage Tv_17
 https://stmv1.srvstm.com:443/rogerio4248/rogerio4248/chunklist_w2046020600.m3u8
-#EXTINF:-1,iptvtools_288
+#EXTINF:-1,Yeeaah_18
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-#EXTINF:-1,iptvtools_289
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1,iptvtools_290
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
-#EXTINF:-1,iptvtools_291
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
-#EXTINF:-1,iptvtools_293
-https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
-#EXTINF:-1,iptvtools_294
-https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
 #EXTINF:-1,iptvtools_295
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
 #EXTINF:-1,iptvtools_297
